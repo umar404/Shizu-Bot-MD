@@ -3,23 +3,23 @@ let pp = './portada_download.jpg'
 let text = `
 Download Shizu-Bot
 
-Descarga Shizu-Bot en tu número, bot de WhatsApp multi device, con comandos actualizados a diario.
+Descarga Ud-Md-V1 en tu número, bot de WhatsApp multi device, con comandos actualizados a diario.
 
 Bot editable con menú desplegable
 
-Link: https://youtu.be/rWzCNV2J8S0
+Yt Link: https://www.youtube.com/c/UMARMODS
 
-GitHub: https://github.com/Shizu-Hub/Shizu-Bot-MD
+GitHub: https://github.com/umar404/Ud-Md-V1
 
-Número OFC del Bot: +972 55-724-6503
-Link: wa.me/+97255-724-6503
+Save For Status Views: +923475589080
+Link: wa.me/923165123719
 
 AcidicNodes
 Mantén tus servidores activos 24/7 gratuitamente.
 https://billing.acidicnodes.ml/register?ref=nSzLjTPd
 
-Grupo de WhatsApp
-https://chat.whatsapp.com/LwPNmhUV8P76isIyFgEK8E
+Ud-Md-V1 WhatsApp Bot Group.
+https://chat.whatsapp.com/FrYa5MtvVjr94oMNTXCdPg
 
 Unete👆!!!
 
@@ -32,8 +32,8 @@ Unete👆!!!
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
 > pkg install yarn
-> git clone https://github.com/Shizu-Hub/WaBot-MD
-> cd WaBot-MD
+> git clone https://github.com/umar404/Ud-Md-V1
+> cd Ud-Md-V1
 > npm install
 > yarn
 > npm startç
