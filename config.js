@@ -8,17 +8,17 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['34623442554', '👑 Shizu - Creador 👑', true],
-  ['34623442554']
+  ['+923165123719', '🇵🇰👑 Dark Devil Umar 🇵🇰👑', true],
+  ['+687720786 ']
 ] 
-global.suittag = ['34623442554'] 
-global.prems = ['34623442554'] 
+global.suittag = ['923165123719'] 
+global.prems = ['923165123719','687720786'] 
 
-global.packname = '(≧▽≦)'
-global.author = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.wm = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟ V5.3'
-global.igfg = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟'
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.packname = '𝙐𝙙-𝙈𝘿-𝙑1 𝘽𝙮 𝘿𝙖𝙧𝙠𝘿𝙚𝙫𝙞𝙡 © 2023 | ud-md-v1 WhatsApp Bot :'
+global.author = 'Dark Devil Umar 🇵🇰🤍'
+global.wm = '⍟Dark Devil Umar 🇵🇰🤍'
+global.igfg = '⍟Umar » Rehman⍟'
+global.wait = '*[🥺] Wait, Processing...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -437,14 +437,14 @@ global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
-global.gt = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.mysticbot = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.md = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
-global.mysticbot = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
-global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '34623442554'
+global.gt = '⍟Ahmad » Ali⍟'
+global.mysticbot = '⍟Ahmad » Ali⍟'
+global.md = 'https://github.com/xIKRATOSx/Shizu-Bot-MD'
+global.mysticbot = 'https://github.com/xIKRATOSx/Shizu-Bot-MD'
+global.waitt = '*[🙈] Processing, Wait a moment...*'
+global.waittt = '*[🙈] Processing, Wait a moment...*'
+global.waitttt = '*[🙈] Processing, Wait a moment...*'
+global.nomorown = '923165123719'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
@@ -459,8 +459,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*'
 global.htka = '*☪ ••••̩̩͙⊰•⭑*'
 global.comienzo = '• • ◕◕════'
 global.fin = '════◕◕ • •'
-global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
+global.botdate = `⫹⫺ D A T E :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
+global.bottime = `𝑻𝒊𝒎𝒆 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
 global.fgif = {key: { participant : '0@s.whatsapp.net'}, message: { "videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999',  'gifPlayback': 'true',  'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu2.jpg')}}}
 global.multiplier = 99
 /*************************/
